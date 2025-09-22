@@ -1,6 +1,6 @@
 // Backend API configuration
 const config = {
-  backendUrl: "http://localhost:8082" // Change this to your backend URL
+  backendUrl: "http://localhost:9090/springbootdigitalwalletapi" // Change this to your backend URL
 };
 
 export default config;
